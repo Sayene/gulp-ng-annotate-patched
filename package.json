@@ -28,7 +28,7 @@
   "homepage": "https://github.com/asednev/gulp-ng-annotate-patched",
   "dependencies": {
     "bufferstreams": "^1.1.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "ng-annotate-patched": "1.11.1",
     "plugin-error": "^0.1.2",
     "through2": "^2.0.1",
